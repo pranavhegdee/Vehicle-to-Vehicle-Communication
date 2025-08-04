@@ -37,5 +37,6 @@ V2V Communication (ESP32 Wi-Fi):<br />
 Driver Alerts (STM32 LED):<br />
 -LED ON if Distance < 30 cm.<br />
 -LED ON if Acceleration < 0 (decelerating).<br />
-
-
+<br />
+<br />
+<img width="735" height="468" alt="Image" src="https://github.com/user-attachments/assets/b4f957ae-cc85-42fa-a3b1-607c280899fd" />
