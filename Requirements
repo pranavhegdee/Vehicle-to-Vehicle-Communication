@@ -1,0 +1,12 @@
+#Hardware
+1. STM32F407VG
+2. HC-04 Ultrasonic sensor
+3. GPS neo 6 module
+4. MPU6050 IMU Sensor
+5. IR Sensor
+6. ESP32 Wroom 
+
+#Software
+1. STM CubeMx
+2. Keil uvision
+3. Arduino IDE
