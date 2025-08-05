@@ -1,7 +1,7 @@
 # Vehicle-to-Vehicle-Communication
 V2V communication using STM32F407VG where vehicles share useful information like the location, distance between them, acceleration and the speed. It uses ultrasonic sensor, imu sensor, gps module and ir sensor along with esp32 for wifi communication.<br />
 
-## 📌 Features<br />
+##  Features<br />
 Distance Detection:<br />
 -Uses an Ultrasonic Sensor to measure the distance from the vehicle ahead.<br />
 -Alerts the driver if the distance falls below 30 cm.<br />
@@ -21,7 +21,7 @@ Vehicle Location Tracking:<br />
 -Driver Alerts:<br />
 LED indicators for negative acceleration (deceleration) and dangerously close distance.<br />
 <br />
-## ⚙️ Working Principle
+##  Working Principle
 Data Collection (STM32F407VG):<br />
 -Ultrasonic → Distance<br />
 -GPS → Latitude & Longitude<br />
